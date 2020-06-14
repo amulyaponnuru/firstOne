@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809422869087",
+    "firebase_url": "https://firstone-dd5f9.firebaseio.com",
+    "project_id": "firstone-dd5f9",
+    "storage_bucket": "firstone-dd5f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809422869087:android:d1ff1ef1719cea2fcd81ea",
+        "android_client_info": {
+          "package_name": "com.example.firstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809422869087-2bmeh8avnn6c8bctuu8plil556227p65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVzAmGlPiBOZXIrpzsAa2rG1q_lCIHbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809422869087-2bmeh8avnn6c8bctuu8plil556227p65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
